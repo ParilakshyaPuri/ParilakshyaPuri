@@ -1,4 +1,4 @@
- ## **Hi there 👋**
+ ## **Hi there 👋 My name is Parilakshya.**
 > <h3 align="center"> I'm a Student, Undergraduate, Developer, and Physics Teacher! 👩🏻 </h3>
 
 <br>
@@ -10,7 +10,7 @@
 <br>
 
 
- ## <h2 align="center"> ✨ Few Things About Me ✨ </h2>
+ ## <h3 align="center"> ✨ Few Things About Me ✨ </h3>
 
 > * 👯 I’m looking to collaborate on Web Dev projects.
 > * 🌱 I’m currently learning full stack development.
