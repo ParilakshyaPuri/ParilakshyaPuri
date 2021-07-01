@@ -1,5 +1,5 @@
-> # Hi there 👋
-> I'm a Student, Undergraduate, Developer, and Physics Teacher! 👩🏻
+> # **Hi there 👋**
+> <h3 align="center"> I'm a Student, Undergraduate, Developer, and Physics Teacher! 👩🏻 </h3>
 
 
 > ## SKILLS:
@@ -7,7 +7,7 @@
 * 🥇 HTML,CSS
 
 
-> ## ✨ Few Things About Me ✨
+> ## <h2 align="center"> ✨ Few Things About Me ✨ </h2>
 
 * 👯 I’m looking to collaborate on Web Dev projects.
 * 🌱 I’m currently learning full stack development.
