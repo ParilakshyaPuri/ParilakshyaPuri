@@ -1,5 +1,14 @@
 ### Hi there 👋
+I'm a Student, Undergraduate, Developer, and Physics Teacher! 👩🏻
 
+SKILLS:
+🥇 C,C++
+🥇 HTML,CSS
+
+✨ Few Things About Me ✨
+👯 I’m looking to collaborate on Web Dev projects.
+🤔 I’m looking for help with Internships.
+📫 How to reach me: Connect with me on Linkedin, or mail at parilakshya25puri@gmail.com
 <!--
 **ParilakshyaPuri/ParilakshyaPuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
