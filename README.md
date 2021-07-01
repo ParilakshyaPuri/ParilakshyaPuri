@@ -1,10 +1,13 @@
-> # **Hi there 👋**
+> ## **Hi there 👋**
 > <h3 align="center"> I'm a Student, Undergraduate, Developer, and Physics Teacher! 👩🏻 </h3>
 
+<br>
 
 > ## SKILLS:
 * 🥇 C,C++
 * 🥇 HTML,CSS
+
+<br>
 
 
 > ## <h2 align="center"> ✨ Few Things About Me ✨ </h2>
