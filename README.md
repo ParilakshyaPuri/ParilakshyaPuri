@@ -1,10 +1,10 @@
-> ## Hi there 👋
-I'm a Student, Undergraduate, Developer, and Physics Teacher! 👩🏻
+> # Hi there 👋
+> I'm a Student, Undergraduate, Developer, and Physics Teacher! 👩🏻
 
 
 > ## SKILLS:
-🥇 C,C++
-🥇 HTML,CSS
+* 🥇 C,C++
+* 🥇 HTML,CSS
 
 
 > ## ✨ Few Things About Me ✨
