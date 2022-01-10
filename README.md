@@ -6,6 +6,7 @@
  ## SKILLS:
 > * 🥇 C,C++
 > * 🥇 HTML,CSS
+> * 🥇 Data Structures and Algorithms
 
 <br>
 
