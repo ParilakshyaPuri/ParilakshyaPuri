@@ -1,21 +1,18 @@
  ## **Hi there 👋 My name is Parilakshya.**
-> <h3> I'm a Student, Undergraduate, Developer, and Physics Teacher! 👩🏻 </h3>
+> <h3> I'm a Software Developer working in HPE! 👩🏻 </h3>
 
 <br>
 
  ## SKILLS:
-> * 🥇 C,C++
-> * 🥇 HTML,CSS
-> * 🥇 Data Structures and Algorithms
+> * 🥇 LANGUAGES: Python • C++ • JavaScript
+> * 🥇 TECHNOLOGIES: Flask • Kafka • Redis • SQLAlchemy • PostgreSQL • REST APIs • Node.js • Express.js • HTML • CSS
+> * 🥇 STRENGTHS: System Design • Backend Development • Data Processing • Problem Solving • Communication • Teaching
 
 <br>
 
-
  ## <h3> ✨ Few Things About Me ✨ </h3>
 
-> * 👯 I’m looking to collaborate on Web Dev projects.
-> * 🌱 I’m currently learning full stack development.
-> * 🤔 I’m looking for help with Internships.
+> * 👯 I’m looking for freelance work.
 > * 📫 How to reach me: Connect with me on [LinkedIn](linkedin.com/in/parilakshya-puri-3339031aa) , or mail at parilakshya25puri@gmail.com
 
 
